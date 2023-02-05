@@ -1,14 +1,12 @@
 package com.example.binlist.presentation
 
-import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.binlist.R
+import androidx.fragment.app.Fragment
+import androidx.lifecycle.ViewModelProvider
 import com.example.binlist.databinding.FragmentCardInfoBinding
-import com.example.binlist.databinding.FragmentCardListBinding
 
 class CardInfoFragment : Fragment() {
 
